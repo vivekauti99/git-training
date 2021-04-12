@@ -1,1 +1,2 @@
 # git-training
+self learning
